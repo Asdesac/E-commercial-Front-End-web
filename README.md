@@ -1,6 +1,6 @@
 # E-commercial-Front-End-web
 <img src="\footcap-master\readme-images\readneimage.png" alt="Image Description">
-<img src="\footcap-master\readme-images\image.png" alt="Image Description">
+
 Happyshop E-Commerce Website
 Welcome to Happyshop, your ultimate destination for footwear shopping! This README outlines the features, setup instructions, and technologies used in this responsive and fully dynamic front-end e-commerce web application.
 
@@ -12,6 +12,7 @@ Usage
 Contributing
 License
 Features
+<img src="\footcap-master\readme-images\image.png" alt="Image Description">
 Responsive Design: Optimized for all screen sizes, ensuring a seamless shopping experience on desktops, tablets, and mobile devices.
 Dynamic Product Listings: Users can browse a wide range of products, including men’s, women’s, and sports footwear.
 Interactive UI: Features like quick view, add to cart, and wishlist enhance user engagement.
@@ -32,7 +33,7 @@ Clone the Repository:
 bash
 
 Copy
-git clone https://github.com/yourusername/happyshop.git
+git clone (https://github.com/Asdesac/E-commercial-Front-End-web).git
 Navigate to the Project Directory:
 bash
 

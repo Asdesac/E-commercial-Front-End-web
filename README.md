@@ -1,3 +1,4 @@
 # E-commercial-Front-End-web
 shoes shop
-![Image Description](C:readme-images\image.png)
+![Image Description](readme-images\image.png)
+<img src="readme-images\image.png" alt="interface of my web">
